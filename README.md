@@ -21,6 +21,38 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 
 ## Experiments (THUMOS14)
 
+- Thumos14 data download : [link](https://www.crcv.ucf.edu/THUMOS14/download.html)
+- C3D feature : [link](https://github.com/wzmsltw/BSN-boundary-sensitive-network/issues/24)
+- I3D feature : [link1](https://emailucr-my.sharepoint.com/personal/sujoy_paul_email_ucr_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsujoy%5Fpaul%5Femail%5Fucr%5Fedu%2FDocuments%2Fwtalc%2Dfeatures&originalPath=aHR0cHM6Ly9lbWFpbHVjci1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9zdWpveV9wYXVsX2VtYWlsX3Vjcl9lZHUvRXMxemJIUVk0UHhLaFVrZGd2V0h0VTBCSy1feXVnYVNqWEs4NGtXc0IwWEQwdz9ydGltZT1mRmxCOTZIUTEwZw)(from [here](https://github.com/sujoyp/wtalc-pytorch)) or [link2](https://drive.google.com/file/d/1NsVN2SPYEcS6sDnN4sfv2cAl0B0I8sp3/view)(from [here](https://github.com/Pilhyeon/BaSNet-pytorch))
+  - extraction code : [link2](https://github.com/piergiaj/pytorch-i3d)
+```
+# link2
+├── THUMOS14
+   ├── gt.json
+   ├── split_train.txt
+   ├── split_test.txt
+   └── features
+       ├── train
+           ├── rgb
+               ├── video_validation_0000051.npy
+               ├── video_validation_0000052.npy
+               └── ...
+           └── flow
+               ├── video_validation_0000051.npy
+               ├── video_validation_0000052.npy
+               └── ...
+       └── test
+           ├── rgb
+               ├── video_test_0000004.npy
+               ├── video_test_0000006.npy
+               └── ...
+           └── flow
+               ├── video_test_0000004.npy
+               ├── video_test_0000006.npy
+               └── ...
+```
+- UNet : [link1](https://onedrive.live.com/?cid=b3a6589c924973b9&id=B3A6589C924973B9%2133792&authkey=!ACJJB7BMDWi3540) or [link2](https://pan.baidu.com/s/1ussSNpI1nsXc7TpuT7inVA)
+
 ### weakly-supervised
 
 ||conference|name|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|code|
