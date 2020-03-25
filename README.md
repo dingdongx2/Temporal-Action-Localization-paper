@@ -3,23 +3,23 @@
 ## Paper & code
 
 ### weakly-supervised
-- **W-TALC** (*ECCV18*) W-TALC: Weakly-supervised Temporal Activity Localization and Classification [tensorflow](https://github.com/sujoyp/wtalc-tensorflow), [pytorch](https://github.com/sujoyp/wtalc-pytorch)
-- **STPN** (*CVPR18*) Weakly Supervised Action Localization by Sparse Temporal Pooling Network [tensorflow](https://github.com/bellos1203/STPN), [pytorch](https://github.com/demianzhang/weakly-action-localization)
-- **STAR** (*AAAI19*) Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection
-- **3C-Net** (*ICCV19*) 3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization [pytorch](https://github.com/naraysa/3c-net)
-- **CMCS** (*CVPR19*) Completeness Modeling and Context Separation for Weakly Supervised
+- [**W-TALC**](https://arxiv.org/abs/1807.10418) (*ECCV18*) W-TALC: Weakly-supervised Temporal Activity Localization and Classification [tensorflow](https://github.com/sujoyp/wtalc-tensorflow), [pytorch](https://github.com/sujoyp/wtalc-pytorch)
+- [**STPN**](http://openaccess.thecvf.com/content_cvpr_2018/html/Nguyen_Weakly_Supervised_Action_CVPR_2018_paper.html) (*CVPR18*) Weakly Supervised Action Localization by Sparse Temporal Pooling Network [tensorflow](https://github.com/bellos1203/STPN), [pytorch](https://github.com/demianzhang/weakly-action-localization)
+- [**STAR**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4939) (*AAAI19*) Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection
+- [**3C-Net**](http://openaccess.thecvf.com/content_ICCV_2019/html/Narayan_3C-Net_Category_Count_and_Center_Loss_for_Weakly-Supervised_Action_Localization_ICCV_2019_paper.html) (*ICCV19*) 3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization [pytorch](https://github.com/naraysa/3c-net)
+- [**CMCS**](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.html) (*CVPR19*) Completeness Modeling and Context Separation for Weakly Supervised
 Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
-- **MAAN** (*ICLR19*) Marginalized Average Attentional Network for Weakly-Supervised Learning [pytorch](https://github.com/yyuanad/MAAN)
-- **BaSNet** (*AAAI20*) Background Suppression Network for Weakly-supervised Temporal Action Localization [pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
+- [**MAAN**](https://arxiv.org/abs/1905.08586) (*ICLR19*) Marginalized Average Attentional Network for Weakly-Supervised Learning [pytorch](https://github.com/yyuanad/MAAN)
+- [**BaSNet**](https://arxiv.org/abs/1911.09963) (*AAAI20*) Background Suppression Network for Weakly-supervised Temporal Action Localization [pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 
 
 ### fully-supervised
-- **S-CNN** (*CVPR16*) Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs [Caffe](https://github.com/zhengshou/scnn)
-- **P-GCN** (*ICCV19*) Graph Convolutional Networks for Temporal Action Localization [pytorch](https://github.com/Alvin-Zeng/PGCN)
-- **C-TCN** (*ICCV19*) Deep Concept-wise Temporal Convolutional Networks for Action Localization
-- **Joshua et al.** (*WACV20*) Activity Detection in Untrimmed Videos Using Chunk-based Classifiers
+- [**S-CNN**](http://openaccess.thecvf.com/content_cvpr_2016/html/Shou_Temporal_Action_Localization_CVPR_2016_paper.html) (*CVPR16*) Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs [Caffe](https://github.com/zhengshou/scnn)
+- [**P-GCN**](http://openaccess.thecvf.com/content_ICCV_2019/html/Zeng_Graph_Convolutional_Networks_for_Temporal_Action_Localization_ICCV_2019_paper.html) (*ICCV19*) Graph Convolutional Networks for Temporal Action Localization [pytorch](https://github.com/Alvin-Zeng/PGCN)
+- [**C-TCN**](https://arxiv.org/abs/1908.09442) (*ICCV19*) Deep Concept-wise Temporal Convolutional Networks for Action Localization
+- [**Joshua et al.**](http://openaccess.thecvf.com/content_WACVW_2020/html/w5/Gleason_Activity_Detection_in_Untrimmed_Videos_Using_Chunk-based_Classifiers_WACVW_2020_paper.html) (*WACV20*) Activity Detection in Untrimmed Videos Using Chunk-based Classifiers
 
-## Score (THUMOS14)
+## Experiments (THUMOS14)
 
 ### weakly-supervised
 
