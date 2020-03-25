@@ -14,10 +14,10 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 
 
 ### fully-supervised
-- **SCNN** (*CVPR16*)
+- **S-CNN** (*CVPR16*) Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs [Caffe](https://github.com/zhengshou/scnn)
 - **Joshua et al.** (*WACV20*) Activity Detection in Untrimmed Videos Using Chunk-based Classifiers
-- **P-GCN** (*ICCV19*) 
-- **C-TCN** (*ICCV19*)
+- **P-GCN** (*ICCV19*) Graph Convolutional Networks for Temporal Action Localization [pytorch](https://github.com/Alvin-Zeng/PGCN)
+- **C-TCN** (*ICCV19*) Deep Concept-wise Temporal Convolutional Networks for Action Localization
 
 ## Score (THUMOS14)
 
@@ -37,7 +37,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 
 ||conference|name|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|CVPR(2016)|SCNN|47.7|60.0|48.7|34.7|23.0|-|-|-|-|
+|1|CVPR(2016)|S-CNN|47.7|60.0|48.7|34.7|23.0|-|-|-|-|
 |2|WACV(2020)|Joshua et al.|67.41|60.0|48.7|34.7|23.0|-|-|-|-|
 |3|ICCV(2019)|P-GCN|69.5|67.8|63.6|57.8|49.1|-|-|-|-|
 |4|ICCV(2019)|C-TCN|72.2|71.4|68.0|62.3|52.1|-|-|-|-|
