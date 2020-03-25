@@ -3,7 +3,7 @@
 ## Paper & code
 
 ### weakly-supervised
-- **W-TALC** (*ECCV18*) W-TALC: Weakly-supervised Temporal Activity Localization and Classification [pytorch](https://github.com/sujoyp/wtalc-pytorch), [tensorflow](https://github.com/sujoyp/wtalc-tensorflow)
+- **W-TALC** (*ECCV18*) W-TALC: Weakly-supervised Temporal Activity Localization and Classification [tensorflow](https://github.com/sujoyp/wtalc-tensorflow), [pytorch](https://github.com/sujoyp/wtalc-pytorch)
 - **STPN** (*CVPR18*) Weakly Supervised Action Localization by Sparse Temporal Pooling Network [tensorflow](https://github.com/bellos1203/STPN), [pytorch](https://github.com/demianzhang/weakly-action-localization)
 - **STAR** (*AAAI19*) Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection
 - **3C-Net** (*ICCV19*) 3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization [pytorch](https://github.com/naraysa/3c-net)
