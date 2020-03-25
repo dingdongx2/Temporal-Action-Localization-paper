@@ -1,4 +1,4 @@
-# Temporal-Action-Detection-paper
+# Temporal Action Localization paper
 
 ## Paper & code
 
