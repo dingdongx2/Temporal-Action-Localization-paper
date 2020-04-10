@@ -66,7 +66,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |5|CVPR(2019)|CMCS|57.4|50.8|41.2|32.1|23.1|15.0|7.0|-|-|[pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)|
 |6|ICLR(2019)|MAAN|59.8|50.8|41.1|30.6|20.3|12.0|6.9|-|-|[pytorch](https://github.com/yyuanad/MAAN)|
 |7|AAAI(2020)|BaSNet|58.2|52.3|44.6|36.0|27.0|18.6|10.4|3.9|0.5|[pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)|
-|8|ICCV(2019)|Nguyen et al.|64.2|59.5|**49.1**|**38.4**|27.5|17.3|8.6|-|-||
+|8|ICCV(2019)|Nguyen et al.|60.4|56.0|**46.6**|**37.5**|26.8|17.6|9.0|3.3|0.4||
 |9||EM-MIL|59.1|52.7|45.5|36.8|**30.5**|**22.7**|**16.4**|-|-||
 
 ### fully-supervised
