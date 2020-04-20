@@ -63,8 +63,8 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|ECCV(2018)|W-TALC|55.2|49.6|40.1|31.1|22.8|-|7.6|-|-|[tensor](https://github.com/sujoyp/wtalc-tensorflow), [pytorch](https://github.com/sujoyp/wtalc-pytorch)|
 |2|CVPR(2018)|STPN|52.0|44.7|35.5|25.8|16.9|9.9|4.3|1.2|0.1|[tensor](https://github.com/bellos1203/STPN), [pytorch](https://github.com/demianzhang/weakly-action-localization)|
-|3|ACM(2019)|ASSG|65.6|59.4|50.4|38.7|25.4|15.0|6.6||||
-|4|ICCV(2019)|TSM|||39.5||24.5||7.1|||
+|3|ACM(2019)|ASSG|65.6|59.4|50.4|38.7|25.4|15.0|6.6|-|-||
+|4|ICCV(2019)|TSM|-|-|39.5|-|24.5|-|7.1|-||
 |5|AAAI(2019)|STAR|**68.8**|**60.0**|48.7|34.7|23.0|-|-|-|-||
 |6|ICCV(2019)|3C-Net|59.1|53.5|44.2|34.1|26.6|-|8.1|-|-|[pytorch](https://github.com/naraysa/3c-net)|
 |7|CVPR(2019)|CMCS|57.4|50.8|41.2|32.1|23.1|15.0|7.0|-|-|[pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)|
