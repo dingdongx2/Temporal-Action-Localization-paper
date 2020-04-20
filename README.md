@@ -57,7 +57,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 ```
 - UNet : [link1](https://onedrive.live.com/?cid=b3a6589c924973b9&id=B3A6589C924973B9%2133792&authkey=!ACJJB7BMDWi3540) or [link2](https://pan.baidu.com/s/1ussSNpI1nsXc7TpuT7inVA)
 
-### weakly-supervised
+### weakly-supervised (feature extractor:I3D)
 
 ||conference|name|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|code|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
