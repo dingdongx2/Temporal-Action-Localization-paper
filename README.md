@@ -5,6 +5,8 @@
 ### weakly-supervised
 - [**W-TALC**](https://arxiv.org/abs/1807.10418) (*ECCV18*) W-TALC: Weakly-supervised Temporal Activity Localization and Classification [tensorflow](https://github.com/sujoyp/wtalc-tensorflow), [pytorch](https://github.com/sujoyp/wtalc-pytorch)
 - [**STPN**](http://openaccess.thecvf.com/content_cvpr_2018/html/Nguyen_Weakly_Supervised_Action_CVPR_2018_paper.html) (*CVPR18*) Weakly Supervised Action Localization by Sparse Temporal Pooling Network [tensorflow](https://github.com/bellos1203/STPN), [pytorch](https://github.com/demianzhang/weakly-action-localization)
+- [**ASSG**](https://dl.acm.org/doi/abs/10.1145/3343031.3351044) (*ACM19*) Adversarial Seeded Sequence Growing for Weakly-Supervised Temporal Action Localization
+- [**TSM**](http://openaccess.thecvf.com/content_ICCV_2019/html/Yu_Temporal_Structure_Mining_for_Weakly_Supervised_Action_Detection_ICCV_2019_paper.html) (*ICCV19*) Temporal Structure Mining for Weakly Supervised Action Detection
 - [**STAR**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4939) (*AAAI19*) Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection
 - [**3C-Net**](http://openaccess.thecvf.com/content_ICCV_2019/html/Narayan_3C-Net_Category_Count_and_Center_Loss_for_Weakly-Supervised_Action_Localization_ICCV_2019_paper.html) (*ICCV19*) 3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization [pytorch](https://github.com/naraysa/3c-net)
 - [**CMCS**](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.html) (*CVPR19*) Completeness Modeling and Context Separation for Weakly Supervised
@@ -61,13 +63,15 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|ECCV(2018)|W-TALC|55.2|49.6|40.1|31.1|22.8|-|7.6|-|-|[tensor](https://github.com/sujoyp/wtalc-tensorflow), [pytorch](https://github.com/sujoyp/wtalc-pytorch)|
 |2|CVPR(2018)|STPN|52.0|44.7|35.5|25.8|16.9|9.9|4.3|1.2|0.1|[tensor](https://github.com/bellos1203/STPN), [pytorch](https://github.com/demianzhang/weakly-action-localization)|
-|3|AAAI(2019)|STAR|**68.8**|**60.0**|48.7|34.7|23.0|-|-|-|-||
-|4|ICCV(2019)|3C-Net|59.1|53.5|44.2|34.1|26.6|-|8.1|-|-|[pytorch](https://github.com/naraysa/3c-net)|
-|5|CVPR(2019)|CMCS|57.4|50.8|41.2|32.1|23.1|15.0|7.0|-|-|[pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)|
-|6|ICLR(2019)|MAAN|59.8|50.8|41.1|30.6|20.3|12.0|6.9|-|-|[pytorch](https://github.com/yyuanad/MAAN)|
-|7|AAAI(2020)|BaSNet|58.2|52.3|44.6|36.0|27.0|18.6|10.4|3.9|0.5|[pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)|
-|8|ICCV(2019)|Nguyen et al.|60.4|56.0|**46.6**|**37.5**|26.8|17.6|9.0|3.3|0.4||
-|9||EM-MIL|59.1|52.7|45.5|36.8|**30.5**|**22.7**|**16.4**|-|-||
+|3|ACM(2019)|ASSG|65.6|59.4|50.4|38.7|25.4|15.0|6.6||||
+|4|ICCV(2019)|TSM|||39.5||24.5||7.1|||
+|5|AAAI(2019)|STAR|**68.8**|**60.0**|48.7|34.7|23.0|-|-|-|-||
+|6|ICCV(2019)|3C-Net|59.1|53.5|44.2|34.1|26.6|-|8.1|-|-|[pytorch](https://github.com/naraysa/3c-net)|
+|7|CVPR(2019)|CMCS|57.4|50.8|41.2|32.1|23.1|15.0|7.0|-|-|[pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)|
+|8|ICLR(2019)|MAAN|59.8|50.8|41.1|30.6|20.3|12.0|6.9|-|-|[pytorch](https://github.com/yyuanad/MAAN)|
+|9|AAAI(2020)|BaSNet|58.2|52.3|44.6|36.0|27.0|18.6|10.4|3.9|0.5|[pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)|
+|10|ICCV(2019)|Nguyen et al.|60.4|56.0|**46.6**|**37.5**|26.8|17.6|9.0|3.3|0.4||
+|11||EM-MIL|59.1|52.7|45.5|36.8|**30.5**|**22.7**|**16.4**|-|-||
 
 ### fully-supervised
 
