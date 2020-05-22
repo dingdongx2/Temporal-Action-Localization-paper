@@ -15,6 +15,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 - [**BaSNet**](https://arxiv.org/abs/1911.09963) (*AAAI20*) Background Suppression Network for Weakly-supervised Temporal Action Localization [pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - [**Nguyen et al.**](http://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Weakly-Supervised_Action_Localization_With_Background_Modeling_ICCV_2019_paper.html) (*ICCV19*) Weakly-supervised Action Localization with Background Modeling
 - [**EM-MIL**](https://arxiv.org/pdf/2004.00163.pdf) Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning
+- [**ACL**](http://www.muyadong.com/paper/CVPR20_ACL.pdf) Learning Temporal Co-Attention Models for Unsupervised Video Action Localization
 
 
 ### fully-supervised
@@ -70,8 +71,9 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |7|CVPR(2019)|CMCS|57.4|50.8|41.2|32.1|23.1|15.0|7.0|-|-|[pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)|
 |8|ICLR(2019)|MAAN|59.8|50.8|41.1|30.6|20.3|12.0|6.9|-|-|[pytorch](https://github.com/yyuanad/MAAN)|
 |9|AAAI(2020)|BaSNet|58.2|52.3|44.6|36.0|27.0|18.6|10.4|3.9|0.5|[pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)|
-|10|ICCV(2019)|Nguyen et al.|60.4|56.0|**46.6**|**37.5**|26.8|17.6|9.0|3.3|0.4||
+|10|ICCV(2019)|Nguyen et al.|60.4|56.0|46.6|37.5|26.8|17.6|9.0|3.3|0.4||
 |11||EM-MIL|59.1|52.7|45.5|36.8|**30.5**|**22.7**|**16.4**|-|-||
+|12||ACL|||**46.9**|**38.9**|30.1|19.8|10.4|||
 
 ### fully-supervised
 
