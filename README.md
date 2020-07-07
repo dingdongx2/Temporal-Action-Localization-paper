@@ -16,7 +16,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 - [**Nguyen et al.**](http://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Weakly-Supervised_Action_Localization_With_Background_Modeling_ICCV_2019_paper.html) (*ICCV19*) Weakly-supervised Action Localization with Background Modeling
 - [**CleanNet**](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Weakly_Supervised_Temporal_Action_Localization_Through_Contrast_Based_Evaluation_Networks_ICCV_2019_paper.html) (*ICCV19*) Weakly Supervised Temporal Action Localization Through Contrast Based Evaluation Networks
 - [**EM-MIL**](https://arxiv.org/pdf/2004.00163.pdf) Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning
-- [**ACL**](http://www.muyadong.com/paper/CVPR20_ACL.pdf) Learning Temporal Co-Attention Models for Unsupervised Video Action Localization\
+- [**ACL**](http://www.muyadong.com/paper/CVPR20_ACL.pdf) Learning Temporal Co-Attention Models for Unsupervised Video Action Localization
 - [**BMUE**](https://arxiv.org/abs/2006.07006) Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization [pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 
 
@@ -66,7 +66,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|ECCV(2018)|W-TALC|55.2|49.6|40.1|31.1|22.8|-|7.6|-|-|[tensor](https://github.com/sujoyp/wtalc-tensorflow), [pytorch](https://github.com/sujoyp/wtalc-pytorch)|
 |2|CVPR(2018)|STPN|52.0|44.7|35.5|25.8|16.9|9.9|4.3|1.2|0.1|[tensor](https://github.com/bellos1203/STPN), [pytorch](https://github.com/demianzhang/weakly-action-localization)|
-|3|ACM(2019)|ASSG|65.6|59.4|50.4|38.7|25.4|15.0|6.6|-|-||
+|3|ACM(2019)|ASSG|65.6|59.4|**50.4**|38.7|25.4|15.0|6.6|-|-||
 |4|ICCV(2019)|TSM|-|-|39.5|-|24.5|-|7.1|-||
 |5|AAAI(2019)|STAR|**68.8**|**60.0**|48.7|34.7|23.0|-|-|-|-||
 |6|ICCV(2019)|3C-Net|59.1|53.5|44.2|34.1|26.6|-|8.1|-|-|[pytorch](https://github.com/naraysa/3c-net)|
@@ -76,7 +76,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |10|ICCV(2019)|Nguyen et al.|60.4|56.0|46.6|37.5|26.8|17.6|9.0|3.3|0.4||
 |11|ICCV(2019)|CleanNet|-|-|37.0|30.9|23.9|13.9|7.1|-|-||
 |11||EM-MIL|59.1|52.7|45.5|36.8|30.5|**22.7**|**16.4**|-|-||
-|12||ACL|-|-|**46.9**|38.9|30.1|19.8|10.4|-||
+|12||ACL|-|-|46.9|38.9|30.1|19.8|10.4|-||
 |13||BMUE|-|-|46.9|**39.2**|**30.7**|20.8|12.5|-|-|[pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 
 ### fully-supervised
