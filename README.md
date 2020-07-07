@@ -17,7 +17,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 - [**CleanNet**](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Weakly_Supervised_Temporal_Action_Localization_Through_Contrast_Based_Evaluation_Networks_ICCV_2019_paper.html) (*ICCV19*) Weakly Supervised Temporal Action Localization Through Contrast Based Evaluation Networks
 - [**EM-MIL**](https://arxiv.org/pdf/2004.00163.pdf) Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning
 - [**ACL**](http://www.muyadong.com/paper/CVPR20_ACL.pdf) Learning Temporal Co-Attention Models for Unsupervised Video Action Localization\
-- [**BMUE*](https://arxiv.org/abs/2006.07006) Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization [pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
+- [**BMUE**](https://arxiv.org/abs/2006.07006) Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization [pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 
 
 ### fully-supervised
