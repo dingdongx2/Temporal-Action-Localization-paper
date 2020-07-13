@@ -17,7 +17,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 - [**BaSNet**](https://arxiv.org/abs/1911.09963) (*AAAI20*) Background Suppression Network for Weakly-supervised Temporal Action Localization [pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - [**RPN**](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf) (*AAAI20*) Relational Prototypical Network for Weakly Supervised Temporal Action Localization
 - [**WSGN**](https://openaccess.thecvf.com/content_WACV_2020/html/Fernando_Weakly_Supervised_Gaussian_Networks_for_Action_Detection_WACV_2020_paper.html) (*WACV20*)  Weakly Supervised Gaussian Networks for Action Detection
-- [**DML**](https://openaccess.thecvf.com/content_WACV_2020/html/Islam_Weakly_Supervised_Temporal_Action_Localization_Using_Deep_Metric_Learning_WACV_2020_paper.html) (*WACV20*) Weakly Supervised Temporal Action Localization Using Deep Metric Learning
+- [**WSAD**](https://openaccess.thecvf.com/content_WACV_2020/html/Islam_Weakly_Supervised_Temporal_Action_Localization_Using_Deep_Metric_Learning_WACV_2020_paper.html) (*WACV20*) Weakly Supervised Temporal Action Localization Using Deep Metric Learning [pytorch](https://github.com/asrafulashiq/wsad)
 - [**EM-MIL**](https://arxiv.org/pdf/2004.00163.pdf) Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning
 - [**ACL**](http://www.muyadong.com/paper/CVPR20_ACL.pdf) Learning Temporal Co-Attention Models for Unsupervised Video Action Localization
 - [**BMUE**](https://arxiv.org/abs/2006.07006) Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization [pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
@@ -80,7 +80,7 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |11|AAAI(2020)|BaSNet|58.2|52.3|44.6|36.0|27.0|18.6|10.4|3.9|0.5|[pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)|
 |12|AAAI(2020)|RPN|62.3|57.0|48.2|37.2|27.9|16.7|8.1|||
 |13|WACV(2020)|WSGN|||||||||||
-|14|WACV(2020)|DML|62.3||46.8||29.6||9.7|||
+|14|WACV(2020)|WSAD|62.3||46.8||29.6||9.7|||[pytorch](https://github.com/asrafulashiq/wsad)|
 |15||EM-MIL|59.1|52.7|45.5|36.8|30.5|**22.7**|**16.4**|-|-||
 |16||ACL|-|-|46.9|38.9|30.1|19.8|10.4|-||
 |17||BMUE|-|-|46.9|**39.2**|**30.7**|20.8|12.5|-|-|[pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
