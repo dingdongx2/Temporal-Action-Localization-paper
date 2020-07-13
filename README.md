@@ -12,9 +12,12 @@
 - [**CMCS**](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Completeness_Modeling_and_Context_Separation_for_Weakly_Supervised_Temporal_Action_CVPR_2019_paper.html) (*CVPR19*) Completeness Modeling and Context Separation for Weakly Supervised
 Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 - [**MAAN**](https://arxiv.org/abs/1905.08586) (*ICLR19*) Marginalized Average Attentional Network for Weakly-Supervised Learning [pytorch](https://github.com/yyuanad/MAAN)
-- [**BaSNet**](https://arxiv.org/abs/1911.09963) (*AAAI20*) Background Suppression Network for Weakly-supervised Temporal Action Localization [pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - [**Nguyen et al.**](http://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Weakly-Supervised_Action_Localization_With_Background_Modeling_ICCV_2019_paper.html) (*ICCV19*) Weakly-supervised Action Localization with Background Modeling
 - [**CleanNet**](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Weakly_Supervised_Temporal_Action_Localization_Through_Contrast_Based_Evaluation_Networks_ICCV_2019_paper.html) (*ICCV19*) Weakly Supervised Temporal Action Localization Through Contrast Based Evaluation Networks
+- [**BaSNet**](https://arxiv.org/abs/1911.09963) (*AAAI20*) Background Suppression Network for Weakly-supervised Temporal Action Localization [pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
+- [**RPN**](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf) (*AAAI20*) Relational Prototypical Network for Weakly Supervised Temporal Action Localization
+- [**WSGN**](https://openaccess.thecvf.com/content_WACV_2020/html/Fernando_Weakly_Supervised_Gaussian_Networks_for_Action_Detection_WACV_2020_paper.html) (*WACV20*)  Weakly Supervised Gaussian Networks for Action Detection
+- [**DML**](https://openaccess.thecvf.com/content_WACV_2020/html/Islam_Weakly_Supervised_Temporal_Action_Localization_Using_Deep_Metric_Learning_WACV_2020_paper.html) (*WACV20*) Weakly Supervised Temporal Action Localization Using Deep Metric Learning
 - [**EM-MIL**](https://arxiv.org/pdf/2004.00163.pdf) Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning
 - [**ACL**](http://www.muyadong.com/paper/CVPR20_ACL.pdf) Learning Temporal Co-Attention Models for Unsupervised Video Action Localization
 - [**BMUE**](https://arxiv.org/abs/2006.07006) Background Modeling via Uncertainty Estimation for Weakly-supervised Action Localization [pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
@@ -72,12 +75,15 @@ Temporal Action Localization [pytorch](https://github.com/Finspire13/CMCS-Tempor
 |6|ICCV(2019)|3C-Net|59.1|53.5|44.2|34.1|26.6|-|8.1|-|-|[pytorch](https://github.com/naraysa/3c-net)|
 |7|CVPR(2019)|CMCS|57.4|50.8|41.2|32.1|23.1|15.0|7.0|-|-|[pytorch](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)|
 |8|ICLR(2019)|MAAN|59.8|50.8|41.1|30.6|20.3|12.0|6.9|-|-|[pytorch](https://github.com/yyuanad/MAAN)|
-|9|AAAI(2020)|BaSNet|58.2|52.3|44.6|36.0|27.0|18.6|10.4|3.9|0.5|[pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)|
-|10|ICCV(2019)|Nguyen et al.|60.4|56.0|46.6|37.5|26.8|17.6|9.0|3.3|0.4||
-|11|ICCV(2019)|CleanNet|-|-|37.0|30.9|23.9|13.9|7.1|-|-||
-|11||EM-MIL|59.1|52.7|45.5|36.8|30.5|**22.7**|**16.4**|-|-||
-|12||ACL|-|-|46.9|38.9|30.1|19.8|10.4|-||
-|13||BMUE|-|-|46.9|**39.2**|**30.7**|20.8|12.5|-|-|[pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
+|9|ICCV(2019)|Nguyen et al.|60.4|56.0|46.6|37.5|26.8|17.6|9.0|3.3|0.4||
+|10|ICCV(2019)|CleanNet|-|-|37.0|30.9|23.9|13.9|7.1|-|-||
+|11|AAAI(2020)|BaSNet|58.2|52.3|44.6|36.0|27.0|18.6|10.4|3.9|0.5|[pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)|
+|12|AAAI(2020)|RPN|62.3|57.0|48.2|37.2|27.9|16.7|8.1|||
+|13|WACV(2020)|WSGN|||||||||||
+|14|WACV(2020)|DML|62.3||46.8||29.6||9.7|||
+|15||EM-MIL|59.1|52.7|45.5|36.8|30.5|**22.7**|**16.4**|-|-||
+|16||ACL|-|-|46.9|38.9|30.1|19.8|10.4|-||
+|17||BMUE|-|-|46.9|**39.2**|**30.7**|20.8|12.5|-|-|[pytorch](https://github.com/Pilhyeon/Background-Modeling-via-Uncertainty-Estimation)
 
 ### fully-supervised
 
